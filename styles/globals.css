@@ -14,3 +14,26 @@ a {
 * {
   box-sizing: border-box;
 }
+
+nav{
+  padding: 20px 50px;
+  background: #cecece;
+}
+nav span:nth-child(1){
+
+}
+
+nav span:nth-child(2) a{
+  float: right;
+  padding-right: 20px;
+}
+
+footer{
+  padding: 20px 50px;
+  text-align: center;
+  background: #444141;
+  position: absolute;
+  width:100vw;
+  bottom:0;
+
+}
